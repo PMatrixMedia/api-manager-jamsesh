@@ -1,0 +1,27 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "express": "latest",
+    "firebase": "5.2.0",
+    "firebaseui": "3.1.1",
+    "gapi": "0.0.3",
+    "gapi-client": "0.0.3",
+    "react": "16.3.2",
+    "react-dom": "16.3.2",
+    "react-firebaseui": "3.0.4",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "1.1.4",
+    "react-service-worker": "0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
