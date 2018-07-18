@@ -1,7 +1,6 @@
 {
-  "name": "new",
+  "name": "api-package-manager",
   "version": "1.0.0",
-  "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
@@ -28,5 +27,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PMatrixMedia/api-manager-jamsesh.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PMatrixMedia/api-manager-jamsesh/issues"
+  },
+  "homepage": "https://github.com/PMatrixMedia/api-manager-jamsesh#readme",
+  "description": ""
 }
